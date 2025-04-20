@@ -1,0 +1,20 @@
+# Bağımlılıklar Klasörü
+node_modules/
+
+# Ortam Değişkenleri Dosyası (ÇOK ÖNEMLİ - Asla Git'e göndermeyin!)
+.env
+
+# Log Dosyaları
+*.log
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+
+# İşletim Sistemi Tarafından Oluşturulan Dosyalar
+.DS_Store
+Thumbs.db
+
+# IDE/Editör Klasörleri (Opsiyonel)
+.vscode/
+.idea/
+
